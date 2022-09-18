@@ -1,4 +1,4 @@
-## Hii, my name is Miguel, HTML5 and CSS3 Student  👋
+## Hii, my name is Miguel, I'm HTML5, CSS3 and JavaScript Student  👋
 
 - 📚 I'm currently learning HTML5 and CSS3 with Professor Guanabara!
 - 📫 How to reach me: Go ahead and look for my house :)
