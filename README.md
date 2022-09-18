@@ -23,5 +23,8 @@
 </div>
 <div>
 <a href="[https://discord.gg/ywa6zZus](https://discord.com/users/795690937996148766 
-Discord)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" ></a> 
+Discord)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" ></a>
+  
+    ![Snake animation](https://github.com/miguelantoniobeber/miguelantoniobeber/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
