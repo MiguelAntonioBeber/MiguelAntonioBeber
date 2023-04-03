@@ -1,6 +1,6 @@
 ## Hii, my name is Miguel, I'm HTML5, CSS3 and JavaScript Student  👋
 
-- 📚 I'm currently learning HTML5 and CSS3 with Teacher Guanabara!
+- 📚 I'm currently learning C and C++ with Teacher Guanabara!
 - 📫 How to reach me: Go ahead and look for my house :)
 - 😄 Pronouns: He / His
 <br><br>
