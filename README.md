@@ -6,7 +6,7 @@
 <br><br>
 <div align="center">
   <a href="https://github.com/miguelantoniobeber">
-  <img id="a1" height="165em" src="https://github-readme-stats.vercel.app/api?username=miguelantoniobeber&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img id="a1" height="165em" src="https://github-readme-stats.vercel.app/api?username=miguelantoniobeber&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelantoniobeber&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
