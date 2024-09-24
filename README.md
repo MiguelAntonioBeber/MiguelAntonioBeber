@@ -17,7 +17,7 @@
   <img align="center" alt="Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   
- <img align="right" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/795693188009951232/1021139410131095742/image_1.png](https://i.pinimg.com/564x/5c/60/3c/5c603c34620e1d87a7f9eee8c926c024.jpg)?width=676&height=676">
+ <img align="right" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/5c/60/3c/5c603c34620e1d87a7f9eee8c926c024.jpg">
 
   <div>
     
