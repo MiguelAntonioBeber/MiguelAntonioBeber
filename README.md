@@ -1,4 +1,4 @@
-## Hii, my name is Miguel, I'm HTML5, CSS3 and JavaScript Student  👋
+# Hii, my name is Miguel, I'm HTML5, CSS3 and JavaScript Student  👋
 
 - 📚 I'm currently learning C and C++ with Teacher Guanabara!
 - 📫 How to reach me: Go ahead and look for my house :)
@@ -10,7 +10,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelantoniobeber&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-### Linguagens: 
+## Linguagens: 
   <img align="center" alt="Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
