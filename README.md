@@ -36,10 +36,4 @@ Atualmente curso o ensino médio no Instituto Federal Catarinense, com foco em d
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelantoniobeber&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
-<div>
-<a href="[https://discord.gg/ywa6zZus](https://discord.com/users/795690937996148766 
-Discord)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" ></a>
-  
- ![snake gif](https://github.com/MiguelAntonioBeber/MiguelAntonioBeber/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
