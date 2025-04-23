@@ -27,7 +27,8 @@ Atualmente curso o ensino médio no Instituto Federal Catarinense, com foco em d
 
   <div>
   <br>
-  #
+    
+  #  
     
   </div>
 </div>
