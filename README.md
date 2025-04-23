@@ -23,7 +23,7 @@ Atualmente curso o ensino médio no Instituto Federal Catarinense, com foco em d
  <img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/8EDv2eR.png">
 
 
-  <div>
+</div>
     
  #
 
@@ -35,7 +35,7 @@ Atualmente curso o ensino médio no Instituto Federal Catarinense, com foco em d
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="165em" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=miguelantoniobeber&show_icons=true&theme=dark&include_all_commits=true&count_private=false" 
   />
@@ -43,7 +43,7 @@ Atualmente curso o ensino médio no Instituto Federal Catarinense, com foco em d
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="165em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelantoniobeber&layout=compact&langs_count=7&theme=dark" 
   />
 
