@@ -27,10 +27,24 @@ Atualmente curso o ensino médio no Instituto Federal Catarinense, com foco em d
     
  #
 
+<br/>
+<br/>
+
 ### 📊 Estatisticas
-  <p>
-    <a href="https://github.com/miguelantoniobeber">
-    <img id="a1" height="200" src="https://github-readme-stats.vercel.app/api?username=miguelantoniobeber&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelantoniobeber&layout=compact&langs_count=7&theme=dark"/>
-    </a>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="[https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?    username=miguelantoniobeber&show_icons=true&theme=dark&include_all_commits=true&count_private=false)" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="[https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelantoniobeber&layout=compact&langs_count=7&theme=dark)" 
+  />
+
 </p>
