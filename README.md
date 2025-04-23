@@ -19,7 +19,6 @@ Atualmente curso o ensino médio no Instituto Federal Catarinense, com foco em d
   <img align="center" alt="Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
           
   
- <img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/8EDv2eR.png">
 
 
 </div>
