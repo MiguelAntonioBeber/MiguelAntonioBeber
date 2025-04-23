@@ -5,11 +5,7 @@
 Atualmente curso o ensino médio no Instituto Federal Catarinense, com foco em desenvolvimento de software e cibersegurança. Tenho experiência prática com HTML5, CSS3 e JavaScript (Prof. Guanabara), e venho me aprofundando em Python e C/C++ com cursos avançados pela Udemy. Já concluí formações complementares em informática e administração, e estou sempre buscando aplicar meus conhecimentos em projetos práticos. Meu objetivo é construir uma carreira sólida na área de tecnologia, contribuindo com soluções inovadoras em software e segurança da informação
 
 <br>
-<div align="center">
-  <a href="https://github.com/miguelantoniobeber">
-  <img id="a1" height="165em" src="https://github-readme-stats.vercel.app/api?username=miguelantoniobeber&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelantoniobeber&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
