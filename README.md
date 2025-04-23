@@ -6,6 +6,7 @@ Atualmente curso o ensino médio no Instituto Federal Catarinense, com foco em d
 
 <br>
 
+### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -18,14 +19,15 @@ Atualmente curso o ensino médio no Instituto Federal Catarinense, com foco em d
   <img align="center" alt="Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
           
-  
+  .
  <img align="right" height="150" style="border-radius:50px;" src="https://i.imgur.com/8EDv2eR.png">
 
 
   <div>
     
  #
-   
+
+### 📊 Estatisticas
     
   </div>
   <div align="center">
