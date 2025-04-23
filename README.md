@@ -28,6 +28,11 @@ Atualmente curso o ensino médio no Instituto Federal Catarinense, com foco em d
    
     
   </div>
+  <div align="center">
+  <a href="https://github.com/miguelantoniobeber">
+  <img id="a1" height="165em" src="https://github-readme-stats.vercel.app/api?username=miguelantoniobeber&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelantoniobeber&layout=compact&langs_count=7&theme=dark"/>
+</div>
 </div>
 <div>
 <a href="[https://discord.gg/ywa6zZus](https://discord.com/users/795690937996148766 
